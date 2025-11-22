@@ -1,0 +1,8 @@
+﻿{
+    "@iconify/json":  {
+                          "downloadType":  "npm",
+                          "contentsDir":  "cache/npm/@iconify/json/package",
+                          "rootDir":  "cache/npm/@iconify/json",
+                          "version":  "latest"
+                      }
+}
